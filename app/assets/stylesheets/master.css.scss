@@ -20,15 +20,16 @@
 
 body {
 	background: url('/assets/light_grey.png');
+	font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
 
 .hero {
-	background: url('hero.jpg') no-repeat center center fixed;
+	background: url('hero1.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height:370px;
+	height:500px;
 	box-shadow: 0px 3px 8px #2a2a2a;
 }
 
